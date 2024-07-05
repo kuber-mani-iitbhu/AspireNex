@@ -39,3 +39,12 @@ Contributions are welcome! If you'd like to contribute to My Portfolio, please f
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin my-feature`
 5. Open a pull request.
+
+
+
+   ![Screenshot (225)](https://github.com/kuber-mani-iitbhu/AspireNex/assets/143291748/41cae40c-2276-4500-8daf-773ddbd9d89c)
+   
+   ![Screenshot (212)](https://github.com/kuber-mani-iitbhu/AspireNex/assets/143291748/e4018461-12c1-48f0-9480-364caa042499)
+
+   ![Screenshot (215)](https://github.com/kuber-mani-iitbhu/AspireNex/assets/143291748/3b9d6e4c-ca46-438f-874e-326227227cc9)
+
